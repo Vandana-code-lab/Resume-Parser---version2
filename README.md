@@ -1,2 +1,3 @@
-# Resume-Parser---version2
-In this, package pyresparser was being used for resume parsing
+# Resume-Parser-Pyresparser package used
+
+
